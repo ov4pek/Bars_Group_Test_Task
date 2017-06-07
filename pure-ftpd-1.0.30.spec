@@ -1,4 +1,4 @@
-#
+#Installed with "yum install", so I didn`t "requires"
 
 Summary:	Pure-FTPd package
 Name:		pure-ftpd
